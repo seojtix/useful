@@ -6,3 +6,5 @@ Javascript motion library: https://github.com/tweenjs/tween.js
 Javascript canvas rendering library: http://paperjs.org  
 Bi-directional live-reload tool: http://livestyle.io  
 Responsive navigation library: http://responsive-nav.com  
+One-page scroll library: https://github.com/peachananr/purejs-onepage-scroll  
+Lightweight jQuery alternative: http://zeptojs.com  
