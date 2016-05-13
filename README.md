@@ -12,3 +12,4 @@ Responsive charts: http://gionkunz.github.io/chartist-js/
 Javascript animation library: http://greensock.com  
 Javascript accelerated animation library: http://julian.com/research/velocity/  
 CSS animation library: https://github.com/daneden/animate.css  
+Acessibility library: http://allyjs.io  
