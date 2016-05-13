@@ -8,3 +8,4 @@ Bi-directional live-reload tool: http://livestyle.io
 Responsive navigation library: http://responsive-nav.com  
 One-page scroll library: https://github.com/peachananr/purejs-onepage-scroll  
 Lightweight jQuery alternative: http://zeptojs.com  
+Responsive charts: http://gionkunz.github.io/chartist-js/  
