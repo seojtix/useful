@@ -9,3 +9,5 @@ Responsive navigation library: http://responsive-nav.com
 One-page scroll library: https://github.com/peachananr/purejs-onepage-scroll  
 Lightweight jQuery alternative: http://zeptojs.com  
 Responsive charts: http://gionkunz.github.io/chartist-js/  
+Javascript animation library: http://greensock.com  
+Javascript accelerated animation library: http://julian.com/research/velocity/  
