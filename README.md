@@ -15,3 +15,4 @@ CSS animation library: https://github.com/daneden/animate.css
 Acessibility library: http://allyjs.io  
 Javascript performance monitor: https://github.com/mrdoob/stats.js  
 WebGL library: http://threejs.org  
+Javascript breakpoints library: http://restivejs.com  
